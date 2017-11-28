@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="app.bsit.sectione" version="9.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>3 BS IT A</name>
-    <description>------------</description>
+    <name>Simple Calculator App</name>
+    <description>A basic calcu.</description>
     <author email="karenkatep@gmail.com" href="">
         Petmalu Lodi Werpa
     </author>
@@ -14,6 +14,7 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <platform name="android">
+        <icon src ="playstore-icon.png">
         <allow-intent href="market:*" />
     </platform>
     <platform name="ios">
