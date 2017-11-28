@@ -11,6 +11,7 @@
 <allow-intent href="mailto:*"/>
 <allow-intent href="geo:*"/>
 <platform name="android">
+<icon src ="www/playstore-icon.png" />
 <allow-intent href="market:*"/>
 </platform>
 <platform name="ios">
